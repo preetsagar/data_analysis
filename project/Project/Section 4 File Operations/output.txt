@@ -1,0 +1,10 @@
+ "First name" "Last name" Age
+0 Tinu Elejogun 14
+1 Javier Zapata 28
+2 Lily McGarrett 18
+3 Olatunkbo Chijiaku 22
+4 Adrienne Anthoula 22
+5 Axelia Athanasios 22
+6 Jon-Kabat Zinn 22
+7 Thabang Mosoa 15
+8 Rhian Ellis 12
